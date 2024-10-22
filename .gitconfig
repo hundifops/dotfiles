@@ -11,3 +11,4 @@
 	gp = pull
 	gpsh = push
 	gc = commit -m
+	gb = branch

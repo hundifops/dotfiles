@@ -8,7 +8,7 @@
 	email = cwiley.cs@gmail.com
 [alias]
 	a = add .
-	gp = pull
-	gpsh = push
-	gc = commit -m
-	gb = branch
+	ps = push
+	p = pull
+	cm = commit -m
+	b = branch

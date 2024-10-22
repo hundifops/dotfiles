@@ -6,3 +6,8 @@
 [user]
 	name = Hundi
 	email = cwiley.cs@gmail.com
+[alias]
+	a = add .
+	gp = pull
+	gpsh = push
+	gc = commit -m

@@ -108,3 +108,4 @@ export MANPATH="/usr/local/man:$MANPATH"
 alias c='clear'
 alias co='code'
 alias mk='mkdir'
+alias la='ls -la'

@@ -12,3 +12,4 @@
 	p = pull
 	cm = commit -m
 	b = branch
+	i = init

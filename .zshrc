@@ -110,3 +110,4 @@ alias co='code'
 alias mk='mkdir'
 alias la='ls -la'
 alias neofetch='neofetch --source /Users/cwiley/Documents/ascii/boykisser.txt'
+alias source='source ~/.zshrc' # use this command for each update

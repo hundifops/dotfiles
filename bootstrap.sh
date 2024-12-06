@@ -2,7 +2,7 @@
 
 echo "Installing dotfiles..."
 
-DOTFILES_DIR="$HOME/.dotfiles"
+DOTFILES_DIR="$HOME/dotfiles"
 
 ln -sf "DOTFILES_DIR/.bashrc" "$HOME/.bashrc"
 ln -sf "$DOTFILES_DIR/.gitconfig" "$HOME/.gitconfig"
